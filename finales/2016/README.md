@@ -5,6 +5,3 @@ To install:
 - Generate the player environment and move this folder into it
 - Type "make" to build the .so champion, and "make tar" to build the .tgz
 - You can run matches as explained in the stechec2 documentation
-
-License:
-This code is licensed under the CC0 license for the prologin.py file, and GPLv2 for all other files (that are from stechec2).
